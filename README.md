@@ -1,3 +1,1 @@
-#### IN ACTION
-
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Simple expense tracker app in react js.
